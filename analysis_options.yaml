@@ -1,7 +1,7 @@
 # Specify analysis options.
 #
 # Until there are meta linter rules, each desired lint must be explicitly enabled.
-# See: https://github.com/dart-lang/linter/issues/288
+# See: https://github.com/dart-lang//linter/issues/288
 #
 # For a list of lints, see: http://dart-lang.github.io/linter/lints/
 # See the configuration guide for more
